@@ -1,29 +1,62 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=Hi%2C%20I'm%20Xalid%20Sabah!&fontSize=40&fontColor=ffffff&fontAlignY=40" />
-</p>
+<h1 align="center">Hi there, I'm Khalid 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=English+Teacher+%F0%9F%93%9D%EF%B8%8F+and+Tech+Enthusiast+%F0%9F%94%A5;Building+Bots%2C+Web+Apps%2C+and+Cool+Stuff+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%92%AA" />
-</p>
-
-<p align="center">
-  <a href="https://t.me/n1simp">
-    <img src="https://img.shields.io/badge/Telegram-@n1simp-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://github.com/xalidsabah">
-    <img src="https://komarev.com/ghpvc/?username=xalidsabah&style=for-the-badge&color=blue" />
-  </a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+  <strong>Welcome to my world of code, creativity, and caffeine ☕</strong>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-```yaml
-Name: Xalid Sabah
-From: Kurdistan 🇹🇯
-Languages: English 🇬🇧 | Arabic 🇸🇦 | Kurdish 🇹🇯
-Role: English Teacher & Tech Enthusiast
-Current Focus: Python · Telegram Bots · AI tools · Web Automation
-Fun Fact: I love creating tools that automate boring stuff!
+- 🎓 English Teacher & Tech Enthusiast  
+- 👨‍💻 Currently building smart tools for education  
+- 🔍 Exploring Python, Automation, Web Dev & AI  
+- 🧠 Lifelong learner & part-time philosopher  
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,tailwind,qt,git,github,vscode,figma" />
+</p>
+
+---
+
+## 🛠️ Projects & Passions
+
+- 🌐 **WordTales**: Learn English through stories  
+- 🤖 Telegram bots for automation  
+- 💡 Modern UI for school systems & scheduling  
+- 🎯 Building MVPs, testing, bug hunting  
+
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://t.me/n1simp"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:khalid@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=n1simp&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1simp&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 🧪 Currently Playing With
+
+- 🧬 AI content creation & automation  
+- 💻 Linux scripting & server tools  
+- 📲 Cross-platform apps with PyQt + Web APIs  
+
+---
+
+<h3 align="center">✨ Always down to learn, build, and vibe 💻📚</h3>
