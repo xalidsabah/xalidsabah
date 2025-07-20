@@ -82,7 +82,7 @@
 
 <div align="center">
   <h3>📫 Get In Touch</h3>
-  <p>Reach me on Telegram: <a href="https://t.me/yourtelegram">@yourtelegram</a></p>
+  <p>Reach me on Telegram: <a href="https://t.me/n1simp">@telegram</a></p>
 </div>
 
 ---
@@ -113,11 +113,23 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
+<div align="center">
+  <h3>📈 Activity Overview</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&include_all_commits=true&count_private=true" />
+  </p>
+  
+  <h3>🔥 Contribution Streak</h3>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&currStreakLabel=FFD700&sideNums=FFFFFF&sideLabels=FFD700&dates=FFFFFF" />
+  </p>
+  
+  <h3>📊 Repository Stats</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_BEST_REPO&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_SECOND_BEST_REPO&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" />
+  </p>
+</div>
 
 ---
 
@@ -212,9 +224,17 @@
 
 ## 🔥 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=react-dark" />
-</p>
+<div align="center">
+  <h3>📅 Activity Timeline</h3>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" />
+  </p>
+  
+  <h3>🎯 Weekly Focus</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&layout=compact" />
+  </p>
+</div>
 
 ---
 
@@ -248,7 +268,16 @@
 ## 🎵 Currently Vibing To
 
 <div align="center">
+  <h3>🎧 Music Taste</h3>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=FFD700&bar_color_cover=false" alt="Spotify" />
+  
+  <h3>📺 Currently Watching</h3>
+  <img src="https://img.shields.io/badge/Netflix-Show%20Name-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix" />
+  <img src="https://img.shields.io/badge/YouTube-Channel%20Name-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  
+  <h3>🎮 Gaming</h3>
+  <img src="https://img.shields.io/badge/Steam-Game%20Name-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  <img src="https://img.shields.io/badge/Epic%20Games-Another%20Game-000000?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
 </div>
 
 ---
@@ -256,7 +285,17 @@
 ## 🏆 Achievements & Recognition
 
 <div align="center">
+  <h3>🏅 GitHub Trophies</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Achievements" />
+  
+  <h3>🎖️ Certifications & Awards</h3>
+  <img src="https://img.shields.io/badge/AWS-Certified%20Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified" />
+  <img src="https://img.shields.io/badge/Google-Cloud%20Certified-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Certified" />
+  
+  <h3>🌟 Community Recognition</h3>
+  <img src="https://img.shields.io/badge/GitHub-1000%2B%20Stars-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Stack%20Overflow-Top%2010%25-FF6F00?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
 </div>
 
 ---
@@ -265,10 +304,34 @@
   <h3>🌟 Thanks for visiting my profile!</h3>
   <p>Feel free to reach out if you'd like to collaborate on something amazing! 🚀</p>
   
-  <img src="https://media.giphy.com/media/LnKonfpQhRgv6/giphy.gif" alt="Thank you" width="200">
+  <div align="center">
+    <img src="https://media.giphy.com/media/LnKonfpQhRgv6/giphy.gif" alt="Thank you" width="200">
+  </div>
+  
+  <h3>📞 Let's Connect</h3>
+  <p>I'm always open to interesting conversations and collaborations!</p>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Email-Ready%20to%20Chat-FFD700?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+    <img src="https://img.shields.io/badge/Telegram-Quick%20Response-FFD700?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram" />
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-FFD700?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  </div>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=FFD700" alt="Profile Views" />
+  </p>
+  
+  <h3>🎯 Quick Actions</h3>
+  <p>
+    <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+      <img src="https://img.shields.io/badge/View_All_Projects-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="View Projects" />
+    </a>
+    <a href="https://github.com/YOUR_USERNAME?tab=stars">
+      <img src="https://img.shields.io/badge/Starred_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starred Repos" />
+    </a>
+    <a href="https://github.com/YOUR_USERNAME?tab=followers">
+      <img src="https://img.shields.io/badge/Follow_Me-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Follow Me" />
+    </a>
   </p>
 </div>
 
