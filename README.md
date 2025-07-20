@@ -70,11 +70,6 @@ readme_content = """
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 </p>
-"""
 
-# Save to text file for download
-path = Path("/mnt/data/README.txt")
-path.write_text(readme_content)
 
-path.name  # Will provide this file for download next
 
