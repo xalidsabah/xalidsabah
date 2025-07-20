@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </div>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Khalid Sabah 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FFD700&size=24&center=true&vCenter=true&lines=Creative+Developer+%26+Tech+Enthusiast;Building+Amazing+Digital+Experiences;Welcome+to+my+GitHub+Portfolio!;Passionate+About+Innovation+%26+Excellence;Always+Learning+%26+Growing">
@@ -21,16 +21,16 @@
 <div align="center">
   <h3>📊 Quick Stats</h3>
   <p align="center">
-    <a href="https://github.com/YOUR_USERNAME">
-      <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=FFD700" alt="Profile Views" />
+    <a href="https://github.com/xalidsabah">
+      <img src="https://komarev.com/ghpvc/?username=xalidsabah&style=for-the-badge&color=FFD700" alt="Profile Views" />
     </a>
-    <a href="https://t.me/yourtelegram">
+    <a href="https://t.me/n1simp">
       <img src="https://img.shields.io/badge/Telegram-Contact-FFD700?style=for-the-badge&logo=telegram&logoColor=black" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <a href="https://github.com/xalidsabah?tab=repositories">
       <img src="https://img.shields.io/badge/Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Repositories" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME?tab=stars">
+    <a href="https://github.com/xalidsabah?tab=stars">
       <img src="https://img.shields.io/badge/Stars-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Stars" />
     </a>
   </p>
@@ -82,7 +82,7 @@
 
 <div align="center">
   <h3>📫 Get In Touch</h3>
-  <p>Reach me on Telegram: <a href="https://t.me/n1simp">@telegram</a></p>
+  <p>Reach me on Telegram: <a href="https://t.me/n1simp">@my telegram</a></p>
 </div>
 
 ---
@@ -116,18 +116,18 @@
 <div align="center">
   <h3>📈 Activity Overview</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&include_all_commits=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=xalidsabah&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&include_all_commits=true&count_private=true" />
   </p>
   
   <h3>🔥 Contribution Streak</h3>
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&currStreakLabel=FFD700&sideNums=FFFFFF&sideLabels=FFD700&dates=FFFFFF" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xalidsabah&theme=radical&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&currStreakLabel=FFD700&sideNums=FFFFFF&sideLabels=FFD700&dates=FFFFFF" />
   </p>
   
   <h3>📊 Repository Stats</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_BEST_REPO&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_SECOND_BEST_REPO&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xalidsabah&repo=YOUR_BEST_REPO&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xalidsabah&repo=YOUR_SECOND_BEST_REPO&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" />
   </p>
 </div>
 
@@ -227,12 +227,12 @@
 <div align="center">
   <h3>📅 Activity Timeline</h3>
   <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xalidsabah&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF" />
   </p>
   
   <h3>🎯 Weekly Focus</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=x4lid&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&layout=compact" />
   </p>
 </div>
 
@@ -251,13 +251,13 @@
   
   <h3>🎯 Quick Actions</h3>
   <p align="center">
-    <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <a href="https://github.com/xalidsabah?tab=repositories">
       <img src="https://img.shields.io/badge/View_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="View Repositories"/>
     </a>
-    <a href="https://github.com/YOUR_USERNAME?tab=stars">
+    <a href="https://github.com/xalidsabah?tab=stars">
       <img src="https://img.shields.io/badge/Starred_Projects-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starred Projects"/>
     </a>
-    <a href="https://github.com/YOUR_USERNAME?tab=followers">
+    <a href="https://github.com/xalidsabah?tab=followers">
       <img src="https://img.shields.io/badge/Follow_Me-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Follow Me"/>
     </a>
   </p>
@@ -269,7 +269,7 @@
 
 <div align="center">
   <h3>🎧 Music Taste</h3>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=FFD700&bar_color_cover=false" alt="Spotify" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31wkfu5czhvi432moahxujnctw6u&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=false&bar_color=FFD700&bar_color_cover=false" alt="Spotify" />
   
   <h3>📺 Currently Watching</h3>
   <img src="https://img.shields.io/badge/Netflix-Show%20Name-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix" />
@@ -286,7 +286,7 @@
 
 <div align="center">
   <h3>🏅 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xalidsabah&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Achievements" />
   
   <h3>🎖️ Certifications & Awards</h3>
   <img src="https://img.shields.io/badge/AWS-Certified%20Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified" />
@@ -318,18 +318,18 @@
   </div>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=FFD700" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=xalidsabah&style=for-the-badge&color=FFD700" alt="Profile Views" />
   </p>
   
   <h3>🎯 Quick Actions</h3>
   <p>
-    <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <a href="https://github.com/xalidsabah?tab=repositories">
       <img src="https://img.shields.io/badge/View_All_Projects-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="View Projects" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME?tab=stars">
+    <a href="https://github.com/xalidsabah?tab=stars">
       <img src="https://img.shields.io/badge/Starred_Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Starred Repos" />
     </a>
-    <a href="https://github.com/YOUR_USERNAME?tab=followers">
+    <a href="https://github.com/xalidsabah?tab=followers">
       <img src="https://img.shields.io/badge/Follow_Me-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="Follow Me" />
     </a>
   </p>
