@@ -1,75 +1,70 @@
-<h1 align="center">Hi there, I'm Xalid 👋</h1>
 
+<!-- README.md - Fancy and Stylish GitHub Profile -->
+
+<h1 align="center">✨ Xalid Sabah ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&lines=English+Teacher+%26+Tech+Enthusiast;Building+cool+things+with+Python+%26+AI;Welcome+to+my+GitHub+Portfolio!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&width=435&lines=English+Teacher+%26+Tech+Enthusiast;Building+cool+things+with+Python+%26+AI;Lover+of+Elegant+Code+%26+Designs;Welcome+to+my+GitHub+Portfolio!">
 </p>
 
 ---
 
+### 👨‍💻 About Me
+
+- 💼 English Teacher & Tech Enthusiast
+- 🧠 Passionate about Python, AI, and automation
+- 🌍 Based in Kurdistan, exploring the intersection of education and technology
+- 💬 Ask me about tech, learning, or anything interesting!
+- 🧰 Tech Stack: `Python`, `JavaScript`, `HTML`, `CSS`, `Node.js`, `FastAPI`, `PyQt`, `Telegram Bots`
+
+---
+
+### 📫 Connect with Me
 <p align="center">
-  <a href="https://github.com/xalidsabah">
-    <img src="https://komarev.com/ghpvc/?username=xalidsabah&style=for-the-badge&color=blue" alt="Profile Views" />
-  </a>
-  <a href="https://t.me/yourtelegram">
-    <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" />
-  </a>
+  <a href="mailto:xalidxboy1999@email.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/n1simp"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="https://github.com/xalidsabah"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 💡 About Me
-
-- 🔭 I’m currently working on automation, bots & education tech  
-- 🌱 Learning React, Supabase, and Machine Learning  
-- 💬 Ask me about Python, bots, or AI tools  
-- 📫 Reach me on Telegram: [X](https://t.me/n1simp)
-
----
-
-## ⚙️ Tech Stack
+### 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,tailwind,nodejs,express,mongodb,vercel,vscode,linux,figma&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xalidsabah&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xalidsabah&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xalidsabah&theme=github_dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
+### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xalidsabah&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xalidsabah&theme=radical" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xalidsabah&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+### 🎨 Tools I Use
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=xalidsabah&theme=react-dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,nodejs,pyqt,figma,linux,vscode,github,git" />
 </p>
 
 ---
 
-## 🧠 Fun Projects
-
-- 🤖 Telegram Bot Army
-- ✍️ WordTales – Learn English with stories
-- 📦 Email Checker with Threads and Proxies
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:khalidsabah@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://github.com/xalidsabah"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+### 🔥 Fun Facts
+- 🕹 I enjoy tinkering with automation tools and building bots.
+- 🧩 I love solving problems that combine tech & creativity.
+- 📚 I believe tech is the future of education — and I'm building toward it.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 </p>
