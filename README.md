@@ -1,70 +1,52 @@
+<h1 align="center">Hi there 👋, I'm Xalid</h1>
 
-<!-- README.md - Fancy and Stylish GitHub Profile -->
-
-<h1 align="center">✨ Xalid Sabah ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&width=435&lines=English+Teacher+%26+Tech+Enthusiast;Building+cool+things+with+Python+%26+AI;Lover+of+Elegant+Code+%26+Designs;Welcome+to+my+GitHub+Portfolio!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=English+Teacher+%7C+Tech+Enthusiast;Building+ideas+with+code+and+purpose" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🚀 About Me
 
-- 💼 English Teacher & Tech Enthusiast
-- 🧠 Passionate about Python, AI, and automation
-- 🌍 Based in Kurdistan, exploring the intersection of education and technology
-- 💬 Ask me about tech, learning, or anything interesting!
-- 🧰 Tech Stack: `Python`, `JavaScript`, `HTML`, `CSS`, `Node.js`, `FastAPI`, `PyQt`, `Telegram Bots`
-
----
-
-### 📫 Connect with Me
-<p align="center">
-  <a href="mailto:xalidxboy1999@email.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/n1simp"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://github.com/xalidsabah"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
+- 🌍 I’m from Kurdistan  
+- 👨‍🏫 I'm an English teacher  
+- 🖥️ I’m passionate about tech, automation, and beautiful UIs  
+- 🛠️ Currently exploring **Python**, **AI Tools**, and **EdTech Platforms**
 
 ---
 
-### 🚀 GitHub Stats
+### 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xalidsabah&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xalidsabah&theme=react&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xalidsabah&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xalid123&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xalid123&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xalidsabah&theme=react-dark&hide_border=true" />
-</p>
+### 📬 Contact Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/n1simp)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xalid.sabah.1998@gmail.com)
 
 ---
 
-### 🎨 Tools I Use
+### 🧠 Fun Fact
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,fastapi,nodejs,pyqt,figma,linux,vscode,github,git" />
-</p>
+> “I debug not just code, but life.”
 
 ---
 
-### 🔥 Fun Facts
-- 🕹 I enjoy tinkering with automation tools and building bots.
-- 🧩 I love solving problems that combine tech & creativity.
-- 📚 I believe tech is the future of education — and I'm building toward it.
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
-</p>
+<p align="center">✨ Keep learning, building, and dreaming! ✨</p>
