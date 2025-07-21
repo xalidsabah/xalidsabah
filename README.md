@@ -1,8 +1,3 @@
-from pathlib import Path
-
-readme_content = """
-<!-- README.md - Fancy and Stylish GitHub Profile -->
-
 <h1 align="center">✨ Xalid Sabah ✨</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&width=435&lines=English+Teacher+%26+Tech+Enthusiast;Building+cool+things+with+Python+%26+AI;Lover+of+Elegant+Code+%26+Designs;Welcome+to+my+GitHub+Portfolio!">
@@ -70,6 +65,3 @@ readme_content = """
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 </p>
-
-
-
