@@ -23,6 +23,9 @@
 </p>
 
 ---
+### TryHackMe
+<img src="https://tryhackme-badges.s3.amazonaws.com/x4lid.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5172200" style='border:none;'></iframe>
 
 ### 🚀 GitHub Stats
 
@@ -38,7 +41,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xalidsabah&theme=github_dark" />
 </p>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5172200" style='border:none;'></iframe>
+
 
 ---
 
