@@ -24,10 +24,9 @@
 
 ---
 ### TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/x4lid.png" alt="Your Image Badge" />
-
-</p align="center"> <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5172200" style='border:none;'></iframe>
-</p>
+<a href="https://tryhackme.com/p/x4lid" target="_blank">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/x4lid.png" alt="TryHackMe Badge" />
+</a>
 
 ### 🚀 GitHub Stats
 
