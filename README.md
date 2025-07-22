@@ -24,7 +24,9 @@
 
 ---
 ### TryHackMe
-<p> <a href="https://tryhackme.com/p/x4lid" target="_blank">
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/x4lid.png)](https://tryhackme.com/p/x4lid)
+
+<p align="center"> <a href="https://tryhackme.com/p/x4lid" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/x4lid.png" alt="TryHackMe Badge" />
 </a>
 </p>
