@@ -27,6 +27,17 @@
 <a href="https://tryhackme.com/p/x4lid" target="_blank">
   <img src="https://tryhackme-badges.s3.amazonaws.com/x4lid.png" alt="TryHackMe Badge" />
 </a>
+<div style="width: 320px;">
+  
+  <iframe 
+    src="https://tryhackme.com/badge/5172200" 
+    style="border: none;" 
+    width="300" 
+    height="300" 
+    title="TryHackMe Badge">
+  </iframe>
+</div>
+
 
 ### 🚀 GitHub Stats
 
