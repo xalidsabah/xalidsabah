@@ -14,6 +14,7 @@
 - 🧰 Tech Stack: `Python`, `JavaScript`, `HTML`, `CSS`, `Node.js`, `FastAPI`, `PyQt`, `Telegram Bots`
 
 ---
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5172200" style='border:none;'></iframe>
 
 ### 📫 Connect with Me
 <p align="center">
